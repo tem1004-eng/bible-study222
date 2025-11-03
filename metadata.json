@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Bible Dictionary",
+  "description": "성경의 각 단어 위에 마우스를 올리면 구약은 히브리어로, 신약은 헬라어로 원어의 의미를 자세히 설명해주는 대화형 성경 사전입니다.",
+  "requestFramePermissions": []
+}
